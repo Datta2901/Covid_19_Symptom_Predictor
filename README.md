@@ -45,8 +45,8 @@ Dataset Contains 2899 rows and 6 columns namely:
  ```
 
 - By using Kneighbors Classification model 
-  ```
-    Accuracy achieved :  52.00
-    Accuracy achieved :  52.40(After scaling)
+```
+  Accuracy achieved :  52.00
+  Accuracy achieved :  52.40(After scaling)
 
-  ```
+```
