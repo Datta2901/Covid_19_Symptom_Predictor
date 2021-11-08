@@ -1,4 +1,4 @@
-**Covid 19 Symptom Prediction**
+## Covid 19 Symptom Prediction
 
 **GOAL**
 
