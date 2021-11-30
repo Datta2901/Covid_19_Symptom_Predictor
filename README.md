@@ -2,7 +2,7 @@
 
 **GOAL**
 
-The goal of this project is to the person is covid +ve /-ve
+The goal of this project is to determine whether person is covid +ve /-ve
 
 **DATASET**
 
